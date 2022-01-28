@@ -1,5 +1,10 @@
 # Grandma-s-Recipes
 
+## What I`ve learned:
+
+- Creating a basic HTML website
+- Using basic tags, like links, tables, lists, etc.
+
 ## Tasks
 
 1. Create a new page (`recipe-1.html`) which holds the structure and data of [the following recipe](https://vintagerecipecards.com/2011/05/24/perfection-salad/).
